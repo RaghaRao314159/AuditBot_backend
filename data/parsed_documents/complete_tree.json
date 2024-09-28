@@ -1,0 +1,2880 @@
+{
+    "2022_23": {
+        "OVERVIEW": {
+            "SUMMARY": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        "PART I A : AUDIT OF GOVERNMENT FINANCIAL STATEMENTS": {
+            "SUMMARY": [
+                13,
+                14
+            ]
+        },
+        "PART I B : AUDIT OF GOVERNMENT MINISTRIES, ORGANS OF STATE AND GOVERNMENT FUNDS": {
+            "SUMMARY": [
+                15,
+                16
+            ],
+            "MINISTRY OF COMMUNICATIONS AND INFORMATION": {
+                "Tenderers Appointed Despite Not Meeting Evaluation Criteria": [
+                    17
+                ]
+            },
+            "MINISTRY OF DEFENCE": {
+                "Overpayments for Vehicle Maintenance Services": [
+                    18
+                ]
+            },
+            "SAVER-Premium Fund": {
+                "Incorrect Contributions to SAVER-Premium Fund Accounts": [
+                    19,
+                    20
+                ]
+            },
+            "PRIME MINISTER\u2019S OFFICE": {
+                "Public Service Division": {
+                    "Weak Controls over the Most Privileged Operating System and Database Accounts": [
+                        21,
+                        22
+                    ],
+                    "Weaknesses in Review of Accounts and Administrators' Activities in IT System": [
+                        23,
+                        24
+                    ],
+                    "Excessive Access Rights Granted to Encryption/Decryption Keys and Data Files": [
+                        25,
+                        26
+                    ]
+                }
+            },
+            "JUDICATURE": {
+                "State Courts": {
+                    "Development Project Savings Not Promptly Declared": [
+                        27
+                    ],
+                    "Possible Irregularities in Quotations for Star Rate Items": [
+                        28
+                    ]
+                }
+            }
+        },
+        "PART II : AUDIT OF STATUTORY BOARDS": {
+            "SUMMARY": [
+                29,
+                30
+            ],
+            "MINISTRY OF CULTURE, COMMUNITY AND YOUTH": {
+                "People\u2019s Association": {
+                    "Lapses in Evaluation and Award of Maintenance and Cleaning Services Tenders": [
+                        31,
+                        32
+                    ],
+                    "Contracts Awarded to Debarred Contractors": [
+                        33
+                    ],
+                    "Inappropriate Practices in Management of Moneys for Welfare Assistance Schemes": [
+                        34,
+                        35
+                    ],
+                    "No Formal Agreements with External Service Partners": [
+                        36,
+                        37
+                    ],
+                    "Weaknesses in Management of Accounts in IT Systems": [
+                        38,
+                        39
+                    ]
+                }
+            },
+            "MINISTRY OF SUSTAINABILITY AND THE ENVIRONMENT": {
+                "Singapore Food Agency": {
+                    "Inadequate Monitoring of Managing Agents\u2019 Work": [
+                        40
+                    ],
+                    "Possible Irregularities Noted in Quotations": [
+                        41
+                    ]
+                }
+            },
+            "MINISTRY OF TRANSPORT": {
+                "Civil Aviation Authority of Singapore": {
+                    "Lapses in Management of Grants": [
+                        42,
+                        43,
+                        44
+                    ]
+                }
+            }
+        },
+        "PART III : THEMATIC AUDIT \u2013 COVID-19 RELATED GRANTS": {
+            "SUMMARY": [
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55
+            ],
+            "MINISTRY OF FINANCE": {
+                "Inland Revenue Authority of Singapore": {
+                    "Jobs Support Scheme": {
+                        "SUMMARY": [56, 57, 58, 59, 60, 61, 62, 63],
+                        "Inadequate Documentation on Risk Assessments": [
+                            64
+                        ],
+                        "Cut-off Dates Used for Jobs Support Scheme Allotment Not in Accordance with Approved Dates": [
+                            65
+                        ],
+                        "Evaluation and Approval of Appeals could be Improved": [
+                            65,
+                            66
+                        ],
+                        "Anti-gaming Checks could be Improved": [
+                            67
+                        ],
+                        "Lapses in Blocking Entities from Receiving Payouts": [
+                            68
+                        ],
+                        "Lapses in Recovery of Payouts from Government-funded Entities": [
+                            69
+                        ]
+                    },
+                    "Rental Cash Grant/Rental Support Scheme": {
+                        "No Documentary Evidence of Approval on Risk Assessment for Rental Cash Grant": [
+                            70
+                        ],
+                        "Evaluation of Rental Grants could be Improved": [
+                            71
+                        ],
+                        "Grant Eligibility Not Assessed in Accordance with Legislation or Requirements": [
+                            72
+                        ],
+                        "Follow-up on Return of Grants could be Improved": [
+                            73,
+                            74
+                        ],
+                        "Gaps in Granting of User Access Rights": [
+                            75
+                        ]
+                    }
+                }
+            },
+            "MINISTRY OF TRADE AND INDUSTRY": {
+                "Singapore Tourism Board": {
+                    "SingapoRediscovers Vouchers Scheme": {
+                        "SUMMARY": [76, 77, 78],
+                        "Inadequate Controls to Ensure Only Eligible Merchants and Products were Onboarded": [
+                            79,
+                            80
+                        ],
+                        "Disbursements Made for Ineligible Persons": [
+                            81
+                        ],
+                        "Potential Exceptions Not Followed Up": [
+                            82
+                        ],
+                        "No Monitoring on Merchants\u2019 Compliance with Terms and Conditions": [
+                            83
+                        ],
+                        "Weaknesses in IT Access Controls": [
+                            84
+                        ],
+                        "Weaknesses in IT General Controls": [
+                            85,
+                            86,
+                            87,
+                            88
+                        ]
+                    }
+                }
+            }
+        },
+        "PART IV : AUDIT OF GOVERNMENT-OWNED COMPANIES AND OTHER ACCOUNTS": {
+            "SUMMARY": [
+                89,
+                90
+            ]
+        },
+        "ANNEXES": {
+            "Annex I : AGO\u2019s Audit Authority": [
+                91,
+                92,
+                93,
+                94,
+                95
+            ],
+            "Annex II : Criteria for Appointment of Auditors": [
+                96,
+                97,
+                98
+            ]
+        }
+    },
+    "2018_19": {
+        "OVERVIEW": {
+            "SUMMARY": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        "PART I A : AUDIT OF GOVERNMENT FINANCIAL STATEMENTS": {
+            "SUMMARY": [
+                12,
+                13
+            ]
+        },
+        "PART I B : AUDIT OF GOVERNMENT MINISTRIES, ORGANS OF STATE AND GOVERNMENT FUNDS": {
+            "SUMMARY": [
+                14,
+                15
+            ],
+            "MINISTRY OF CULTURE, COMMUNITY AND YOUTH": {
+                "Weaknesses in Financial Governance of the National Gallery Development Project": [
+                    16,
+                    17,
+                    18
+                ],
+                "Inadequate Oversight in Management of Contract Variations for the National Gallery Development Project": [
+                    19,
+                    20
+                ]
+            },
+            "MINISTRY OF DEFENCE": {
+                "IT Vendors Granted Unrestricted Read-Access to Personnel and Payroll Information": [
+                    21,
+                    22
+                ],
+                "Lapses in Processing of Flying Allowances": [
+                    23
+                ]
+            },
+            "MINISTRY OF EDUCATION": {
+                "CONNECT Fund - No Review of System Administrators\u2019 Activities": [
+                    24
+                ]
+            },
+            "MINISTRY OF FINANCE": {
+                "Accountant-General\u2019s Department - Weaknesses in Logging and Review of Privileged User Activities": [
+                    25,
+                    26
+                ]
+            },
+            "Singapore Customs": {
+                "Weak Controls over Privileged User Accounts and Monitoring of Privileged Users\u2019 Activities": [
+                    27,
+                    28,
+                    29
+                ]
+            },
+            "MINISTRY OF HEALTH": {
+                "Medical Endowment Fund - Medifund Assistance Not Computed in Accordance with Medifund Manual": [
+                    30,
+                    31
+                ]
+            },
+            "MINISTRY OF MANPOWER": {
+                "Weak Controls over Activities Carried Out in IT Systems": [
+                    32,
+                    33,
+                    34,
+                    35
+                ]
+            },
+            "MINISTRY OF NATIONAL DEVELOPMENT": {
+                "Irregularities Noted in Quotations": [
+                    36
+                ]
+            }
+        },
+        "PART II : AUDIT OF STATUTORY BOARDS": {
+            "SUMMARY": [
+                37,
+                38,
+                39
+            ],
+            "MINISTRY OF CULTURE, COMMUNITY AND YOUTH": {
+                "Majlis Ugama Islam Singapura - Lapses in Evaluation of Tenders and Quotations": [
+                    40
+                ],
+                "Weaknesses in Management of Access Controls of IT Systems": [
+                    41,
+                    42,
+                    43
+                ],
+                "Haj Administration Fees Relating to Deceased Applicants Not Refunded in a Timely Manner": [
+                    44,
+                    45
+                ]
+            },
+            "MINISTRY OF FINANCE": {
+                "Singapore Totalisator Board - Lapses in Administration of Grants": [
+                    46,
+                    47
+                ]
+            },
+            "MINISTRY OF NATIONAL DEVELOPMENT": {
+                "Urban Redevelopment Authority - Irregularities Noted in Quotations": [
+                    48,
+                    49
+                ]
+            },
+            "MINISTRY OF SOCIAL AND FAMILY DEVELOPMENT": {
+                "National Council of Social Service - Lapses in Procurement": [
+                    50,
+                    51
+                ],
+                "Partial Sponsorship Not Solicited in a Fair Manner": [
+                    52
+                ]
+            }
+        },
+        "PART III : THEMATIC AUDIT": {
+            "SUMMARY": [
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59
+            ],
+            "MINISTRY OF HEALTH": {
+                "Approval of Funding Obtained After Commencement of Funding Period": [
+                    60
+                ],
+                "Agreements Not Entered into by Authorised Officers": [
+                    61
+                ],
+                "Funding Agreements Entered into After Commencement of Funding Period": [
+                    61
+                ],
+                "Grant Documents Not Properly Maintained": [
+                    62
+                ],
+                "Unclear Terms in Funding Agreements for Grant Programme": [
+                    62
+                ],
+                "Inadequate Checks on Grant Disbursements": [
+                    63,
+                    64
+                ],
+                "Inadequate Oversight over Management of Grant Programme": [
+                    65
+                ],
+                "Inadequate Checks on Subvention Claims for Overlapping Service Types": [
+                    66
+                ],
+                "Lapses in Monitoring of Requirements in Funding Agreements": [
+                    67,
+                    68
+                ]
+            },
+            "MINISTRY OF SOCIAL AND FAMILY DEVELOPMENT": {
+                "Lapses in Approval of Funding": [
+                    69
+                ],
+                "Funding Agreements Entered into After Commencement of Funding Period": [
+                    70
+                ],
+                "Inadequate Controls to Ensure Valid and Correct Data Used for Computing Grants": [
+                    71
+                ],
+                "Inadequate Checks on Grant Disbursements": [
+                    72
+                ],
+                "Lapses in Norm Costs Used to Determine Grant Disbursements": [
+                    73,
+                    74
+                ]
+            }
+        },
+        "PART IV : AUDIT OF GOVERNMENT-OWNED COMPANIES AND OTHER ACCOUNTS": {
+            "SUMMARY": [
+                75,
+                76
+            ]
+        },
+        "ANNEXES": {
+            "Annex I : AGO\u2019s Audit Authority": [
+                77,
+                78,
+                79,
+                80,
+                81
+            ],
+            "Annex II : Criteria for Appointment of Auditors": [
+                82,
+                83,
+                84
+            ]
+        }
+    },
+    "2014_15": {
+        "OVERVIEW": {
+            "SUMMARY": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        "PART I A: AUDIT OF GOVERNMENT FINANCIAL STATEMENTS": {
+            "SUMMARY": [
+                8
+            ]
+        },
+        "PART I B: AUDIT OF GOVERNMENT MINISTRIES, ORGANS OF STATE AND GOVERNMENT FUNDS": {
+            "SUMMARY": [
+                9
+            ],
+            "MINISTRY OF EDUCATION": {
+                "Inadequate Controls to Ensure Proper Use of Grants": [
+                    10,
+                    11
+                ]
+            },
+            "MINISTRY OF HEALTH": {
+                "Overpayment of Rental Subvention": [
+                    12
+                ]
+            },
+            "MINISTRY OF MANPOWER": {
+                "Ineffective Monitoring of IT Vendor\u2019s Database Activities": [
+                    13
+                ],
+                "Inappropriate Access Rights Assigned to IT System Users": [
+                    14
+                ]
+            },
+            "PRIME MINISTER\u2019S OFFICE": {
+                "National Population and Talent Division": {
+                    "Irregularities in Procurement of Event Management Services": [
+                        15,
+                        16
+                    ]
+                },
+                "National Research Fund": {
+                    "Lapses in Administration of Grants": [
+                        17,
+                        18
+                    ]
+                }
+            }
+        },
+        "PART II: AUDIT OF STATUTORY BOARDS": {
+            "SUMMARY": [
+                19,
+                20
+            ],
+            "MINISTRY OF COMMUNICATIONS AND INFORMATION": {
+                "Info-communications Development Authority of Singapore": {
+                    "Lapses in Administration of Project Funding": [
+                        21
+                    ]
+                },
+                "National Library Board": {
+                    "Weaknesses in Procurement of Electronic Resources": [
+                        22,
+                        23
+                    ]
+                }
+            },
+            "MINISTRY OF CULTURE, COMMUNITY AND YOUTH": {
+                "People\u2019s Association": {
+                    "Lapses in Management of Tenancy Contracts and Procurement": [
+                        24,
+                        25
+                    ],
+                    "Lapses in Engagement of Training Operators and Collection of Course Fees": [
+                        26,
+                        27
+                    ],
+                    "Irregularities in Procurement and Payment at a Citizens\u2019 Consultative Committee": [
+                        28
+                    ],
+                    "Inadequate Controls over Accuracy and Completeness of Fund Utilisation Reports": [
+                        29,
+                        30
+                    ]
+                }
+            },
+            "MINISTRY OF EDUCATION": {
+                "Institute of Technical Education": {
+                    "Lapses in Management of College Central and Headquarters Development Project": [
+                        31,
+                        32
+                    ],
+                    "Weaknesses in Controls over Determination of Monthly Charges": [
+                        33,
+                        34,
+                        35
+                    ],
+                    "Irregularities in Award and Management of Contracts": [
+                        36,
+                        37
+                    ],
+                    "Transactions with Subsidiary Not at Arm\u2019s Length": [
+                        38,
+                        39
+                    ]
+                },
+                "Singapore Polytechnic": {
+                    "Not Dealing with Related Parties at Arm\u2019s Length": [
+                        40,
+                        41
+                    ]
+                },
+                "Temasek Polytechnic": {
+                    "Lapses in Evaluation of and Approval for Investments in Bonds": [
+                        42
+                    ]
+                },
+                "Other Observations": {
+                    "Subsidising Charges for Vehicle Parking": [
+                        43,
+                        44
+                    ]
+                }
+            },
+            "MINISTRY OF MANPOWER": {
+                "Singapore Workforce Development Agency": {
+                    "Lapses in Administration of Grants": [
+                        45,
+                        46
+                    ],
+                    "Laxity in Monitoring Programme Partner\u2019s Administration of Grants": [
+                        47,
+                        48,
+                        49
+                    ]
+                }
+            },
+            "MINISTRY OF NATIONAL DEVELOPMENT": {
+                "National Parks Board": {
+                    "Lapses in Management of Gardens by the Bay Project": [
+                        50,
+                        51,
+                        52
+                    ],
+                    "No System to Track Assets": [
+                        53
+                    ]
+                }
+            },
+            "MINISTRY OF THE ENVIRONMENT AND WATER RESOURCES": {
+                "National Environment Agency": {
+                    "Revenue Tenders Not Called for Sale of Steel Scrap": [
+                        54
+                    ],
+                    "Gaps in Management of Rodent Surveillance and Control Programme": [
+                        55
+                    ]
+                },
+                "Public Utilities Board": {
+                    "Poor Management of Assets": [
+                        56,
+                        57,
+                        58
+                    ]
+                }
+            },
+            "MINISTRY OF TRADE AND INDUSTRY": {
+                "Jurong Town Corporation": {
+                    "Lapses in Management of International Cruise Terminal Development Project": [
+                        59,
+                        60,
+                        61
+                    ],
+                    "No Review on Security Deposits": [
+                        62
+                    ]
+                }
+            }
+        },
+        "PART III: AUDIT OF GOVERNMENT-OWNED COMPANIES AND OTHER ACCOUNTS": {
+            "SUMMARY": [
+                63,
+                64
+            ]
+        },
+        "ANNEXES": {
+            "Annex I: AGO\u2019s Audit Authority": [
+                65,
+                66,
+                67,
+                68,
+                69
+            ],
+            "Annex II: Criteria for Appointment of Auditors": [
+                70,
+                71,
+                72
+            ]
+        }
+    },
+    "2017_18": {
+        "OVERVIEW": {
+            "SUMMARY": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        "PART I A: AUDIT OF GOVERNMENT FINANCIAL STATEMENTS": {
+            "SUMMARY": [
+                12
+            ]
+        },
+        "PART I B: AUDIT OF GOVERNMENT MINISTRIES, ORGANS OF STATE AND GOVERNMENT FUNDS": {
+            "SUMMARY": [
+                13,
+                14
+            ],
+            "MINISTRY OF DEFENCE": {
+                "Weaknesses in Management of Access Rights": [
+                    15,
+                    16
+                ],
+                "Sharing of User Accounts to Perform Procurement Activities": [
+                    17
+                ],
+                "Overpayment to Contractor": [
+                    18
+                ]
+            },
+            "MINISTRY OF EDUCATION": {
+                "Inadequate Oversight in Contract Management of School Development Projects": [
+                    19,
+                    20,
+                    21
+                ],
+                "Lapses in Evaluation of Construction and Consultancy Services Tenders": [
+                    22,
+                    23,
+                    24
+                ],
+                "Edusave Endowment Fund, Edusave Pupils Fund and Post-Secondary Education Fund": {
+                    "Poor Oversight of Activities Carried Out in IT Systems": [
+                        25
+                    ]
+                }
+            },
+            "MINISTRY OF HOME AFFAIRS": {
+                "Immigration and Checkpoints Authority": {
+                    "Operator Not Selected Through Competitive Process and Not Charged Rental for Using Premises": [
+                        26,
+                        27
+                    ]
+                },
+                "Singapore Civil Defence Force": {
+                    "Poor Management of Vehicle Maintenance Contracts": [
+                        28,
+                        29
+                    ],
+                    "Creating and Backdating of Documents Furnished for Audit": [
+                        30,
+                        31
+                    ]
+                }
+            }
+        },
+        "PART II: AUDIT OF STATUTORY BOARDS": {
+            "SUMMARY": [
+                32,
+                33
+            ],
+            "MINISTRY OF CULTURE, COMMUNITY AND YOUTH": {
+                "People\u2019s Association": {
+                    "Lapses in Procurement and Contract Management for Major Events": [
+                        34,
+                        35,
+                        36,
+                        37
+                    ],
+                    "Failure to Obtain Proper Approvals for Award of Contracts and Variation": [
+                        38
+                    ],
+                    "Lapses in Management of Welfare Assistance Schemes": [
+                        39,
+                        40
+                    ]
+                }
+            },
+            "MINISTRY OF FINANCE": {
+                "Accounting and Corporate Regulatory Authority": {
+                    "Privileged User Activities Not Logged": [
+                        41
+                    ]
+                }
+            },
+            "MINISTRY OF TRANSPORT": {
+                "Maritime and Port Authority of Singapore": {
+                    "Port Dues Charged Deviated from Rates Prescribed in the Law": [
+                        42,
+                        43
+                    ]
+                }
+            }
+        },
+        "PART III: THEMATIC AUDIT": {
+            "SUMMARY": [
+                44,
+                45,
+                46,
+                47
+            ],
+            "MINISTRY OF TRADE AND INDUSTRY": {
+                "Agency for Science, Technology and Research": {
+                    "Delays in Grant Disbursements and Settlement of Final Accounts": [
+                        48
+                    ],
+                    "Audit Reports Not Obtained": [
+                        49
+                    ],
+                    "Inadequate Monitoring of Industry Contributions": [
+                        49
+                    ],
+                    "Lapses in Monitoring and Review of Progress and Final Reports": [
+                        50,
+                        51
+                    ]
+                }
+            },
+            "PRIME MINISTER\u2019S OFFICE": {
+                "National Research Foundation": {
+                    "Lack of Framework Leading to Inconsistencies in Grant Management": [
+                        52
+                    ],
+                    "Laxity in Verification of Fund Requests": [
+                        53
+                    ],
+                    "No Monitoring of Audit Reports": [
+                        54
+                    ],
+                    "Laxity in Monitoring Progress and Final Reports": [
+                        55
+                    ],
+                    "No Procedures to Recover Unutilised Grants from Grant Recipients": [
+                        56
+                    ]
+                }
+            }
+        },
+        "PART IV: AUDIT OF GOVERNMENT-OWNED COMPANIES AND OTHER ACCOUNTS": {
+            "SUMMARY": [
+                57,
+                58
+            ]
+        },
+        "ANNEXES": {
+            "Annex I: AGO\u2019s Audit Authority": [
+                59,
+                60,
+                61,
+                62,
+                63
+            ],
+            "Annex II: Criteria for Appointment of Auditors": [
+                64,
+                65,
+                66
+            ]
+        }
+    },
+    "2015_16": {
+        "OVERVIEW": {
+            "SUMMARY": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ]
+        },
+        "PART I A : AUDIT OF GOVERNMENT FINANCIAL STATEMENTS": {
+            "SUMMARY": [
+                10
+            ]
+        },
+        "PART I B : AUDIT OF GOVERNMENT MINISTRIES, ORGANS OF STATE AND GOVERNMENT FUNDS": {
+            "SUMMARY": [
+                11,
+                12
+            ],
+            "MINISTRY OF DEFENCE": {
+                "Failure to Provide for Central Provident Fund Contributions for Bonus Paid": [
+                    13
+                ],
+                "Investment Made Without Proper Approval and Evaluation": [
+                    14
+                ]
+            },
+            "MINISTRY OF EDUCATION": {
+                "Lapses in Monitoring and Enforcement of Scholarship Bonds": [
+                    15
+                ],
+                "Tuition Fee Loans and Study Loans Due Not Promptly Recovered": [
+                    16,
+                    17
+                ],
+                "Undue Delay in Review of Agency Fees": [
+                    18
+                ],
+                "Over-contributions to Sinking Fund": [
+                    19
+                ],
+                "Inadequate Monitoring of Research Progress": [
+                    20
+                ]
+            },
+            "MINISTRY OF FOREIGN AFFAIRS": {
+                "Irregularities in Management of and Payments for Telecommunication Services": [
+                    21
+                ]
+            },
+            "MINISTRY OF HOME AFFAIRS": {
+                "Singapore Police Force Overpayment of Allowance to Volunteer Special Constabulary Officers": [
+                    22
+                ]
+            },
+            "MINISTRY OF LAW": {
+                "Lapses in Administration of Assets Received from Nursing Homes": [
+                    23
+                ],
+                "Weaknesses in Monitoring of Access to IT System": [
+                    24,
+                    25
+                ]
+            },
+            "MINISTRY OF MANPOWER": {
+                "Procured System Not Used Resulting in Wastage": [
+                    26
+                ]
+            }
+        },
+        "PART II : AUDIT OF STATUTORY BOARDS": {
+            "SUMMARY": [
+                27,
+                28,
+                29
+            ],
+            "MINISTRY OF CULTURE, COMMUNITY AND YOUTH": {
+                "National Arts Council": {
+                    "Lapses in Management of Victoria Theatre and Victoria Concert Hall Redevelopment Project": [
+                        30,
+                        31,
+                        32
+                    ]
+                }
+            },
+            "MINISTRY OF EDUCATION": {
+                "Nanyang Polytechnic": {
+                    "Proper Governance Framework Not in Place and Transactions with Subsidiary Not at Arm\u2019s Length": [
+                        33,
+                        34,
+                        35
+                    ],
+                    "Donations Raised for Unauthorised Purpose": [
+                        36
+                    ],
+                    "Lapses in Tendering and Management of Revenue Contracts": [
+                        37,
+                        38,
+                        39,
+                        40
+                    ]
+                }
+            },
+            "MINISTRY OF LAW": {
+                "Intellectual Property Office of Singapore": {
+                    "Lapses in Procurement of Goods and Services": [
+                        41,
+                        42,
+                        43
+                    ]
+                }
+            }
+        },
+        "MINISTRY OF NATIONAL DEVELOPMENT": {
+            "Housing and Development Board": {
+                "Long Delays in Finalising Accounts of Contracts and Making Final Payments to Contractors": [
+                    44,
+                    45
+                ],
+                "Inadequate Monitoring of Car Park Operations and Enforcement": [
+                    46,
+                    47
+                ]
+            }
+        },
+        "MINISTRY OF TRANSPORT": {
+            "Land Transport Authority of Singapore": {
+                "Weaknesses in Controls over Revenue Collection at Checkpoints": [
+                    48
+                ],
+                "Undue Delay in Finalisation of Agreement with Mass Rapid Transit System Operator": [
+                    48,
+                    49
+                ]
+            }
+        },
+        "PRIME MINISTER\u2019s OFFICE (PUBLIC SERVICE DIVISION)": {
+            "Civil Service College": {
+                "Lapses in Administration of Course Fees": [
+                    50
+                ],
+                "Lapses in Administration of Trainer Fees": [
+                    51
+                ]
+            }
+        },
+        "PART III : AUDIT OF GOVERNMENT-OWNED COMPANIES AND OTHER ACCOUNTS": {
+            "SUMMARY": [
+                52,
+                53
+            ]
+        },
+        "ANNEXES": {
+            "Annex I : AGO\u2019s Audit Authority": [
+                54,
+                55,
+                56,
+                57,
+                58
+            ],
+            "Annex II : Criteria for Appointment of Auditors": [
+                59,
+                60,
+                61
+            ]
+        }
+    },
+    "2009_10": {
+        "OVERVIEW": {
+            "SUMMARY": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        "PART I A : AUDIT OF GOVERNMENT FINANCIAL STATEMENTS": {
+            "SUMMARY": [
+                5
+            ]
+        },
+        "PART I B : AUDIT OF GOVERNMENT MINISTRIES AND ORGANS OF STATE": {
+            "SUMMARY": [
+                6
+            ],
+            "Ministry of Community Development, Youth and Sports": [
+                7,
+                8
+            ],
+            "Ministry of Defence": [
+                9
+            ],
+            "Ministry of Finance": [
+                10
+            ],
+            "Ministry of Foreign Affairs": [
+                11
+            ],
+            "Ministry of Health": [
+                12
+            ],
+            "Ministry of Home Affairs": [
+                13,
+                14
+            ],
+            "Prime Minister\u2019s Office": [
+                15
+            ],
+            "Judicature": [
+                16,
+                17
+            ]
+        },
+        "PART II : AUDIT OF STATUTORY BOARDS": {
+            "SUMMARY": [
+                18,
+                19
+            ],
+            "Ministry of Finance": {
+                "Accounting and Corporate Regulatory Authority": [
+                    20
+                ],
+                "Inland Revenue Authority of Singapore": [
+                    21
+                ]
+            },
+            "Ministry of Information, Communications and the Arts": {
+                "National Arts Council": [
+                    22
+                ],
+                "National Heritage Board": [
+                    23,
+                    24
+                ]
+            },
+            "Governance Framework and Practices": [
+                25,
+                26,
+                27
+            ],
+            "Other Observations": [
+                28
+            ]
+        },
+        "PART III : AUDIT OF GOVERNMENT-OWNED COMPANIES AND OTHER ACCOUNTS": {
+            "SUMMARY": [
+                29,
+                30
+            ]
+        },
+        "APPENDICES": {
+            "Appendix I : Audit Authority": [
+                31,
+                32,
+                33,
+                34
+            ],
+            "Appendix II : Criteria for Appointment of Auditors": [
+                35,
+                36
+            ]
+        }
+    },
+    "2011_12": {
+        "OVERVIEW": {
+            "SUMMARY": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        "PART I A : AUDIT OF GOVERNMENT FINANCIAL STATEMENTS": {
+            "SUMMARY": [
+                8
+            ]
+        },
+        "PART I B : AUDIT OF GOVERNMENT MINISTRIES, ORGANS OF STATE AND GOVERNMENT FUNDS": {
+            "SUMMARY": [
+                9
+            ],
+            "MINISTRY OF DEFENCE": {
+                "Over-recovery of Housing Loan": [
+                    10
+                ],
+                "Shipboard Allowances Not Paid to Servicemen": [
+                    11
+                ],
+                "Lapses in Procurement at a Recruitment Centre": [
+                    11
+                ]
+            },
+            "MINISTRY OF EDUCATION": {
+                "Schools\u2019 Excessive Reserves of Edusave Grants": [
+                    12,
+                    13
+                ],
+                "Lapses in Managing Pupils Fund Accounts": [
+                    14,
+                    15
+                ]
+            },
+            "MINISTRY OF FINANCE": {
+                "President\u2019s Concurrence Not Obtained for Promissory Note Issued": [
+                    16
+                ],
+                "Inadequate Checks to Prevent Duplicate Payments": [
+                    17
+                ]
+            },
+            "MINISTRY OF FOREIGN AFFAIRS": {
+                "Lapses in Procurement of Services of a Consultant": [
+                    18
+                ]
+            },
+            "MINISTRY OF HEALTH": {
+                "Irregularities in Contract Management of Hospital Development Project": [
+                    19,
+                    20
+                ],
+                "Non-compliance with Medifund Disbursement Guidelines": [
+                    21
+                ]
+            },
+            "MINISTRY OF HOME AFFAIRS": {
+                "Immigration and Checkpoints Authority": {
+                    "Vessels Not Put to Use": [
+                        22
+                    ],
+                    "Irregularities in Procurement under Term Contracts": [
+                        23,
+                        24
+                    ]
+                },
+                "Singapore Police Force": {
+                    "Irregularities in Procurement at Two Police Divisions": [
+                        25,
+                        26
+                    ],
+                    "Irregularities in Procurement at Police Logistics Base": [
+                        27
+                    ]
+                },
+                "Singapore Prison Service": {
+                    "Irregularities in Procurement and Contract Management": [
+                        28,
+                        29,
+                        30,
+                        31
+                    ]
+                }
+            },
+            "MINISTRY OF MANPOWER": {
+                "No Assurance of Adequate Scrutiny by Approving Authority in Tender Award Process": [
+                    32
+                ]
+            },
+            "MINISTRY OF NATIONAL DEVELOPMENT": {
+                "Breach of Laws in Control and Accounting for Revenue and Expenditure": [
+                    33
+                ]
+            },
+            "MINISTRY OF TRADE AND INDUSTRY": {
+                "Licensee Different from That Approved by Cabinet": [
+                    34
+                ]
+            },
+            "PRIME MINISTER\u2019S OFFICE": {
+                "National Population and Talent Division": {
+                    "Irregularities in Procurement of Event Management Services": [
+                        35,
+                        36
+                    ]
+                }
+            }
+        },
+        "PART II : AUDIT OF STATUTORY BOARDS": {
+            "SUMMARY": [
+                37,
+                38
+            ],
+            "MINISTRY OF COMMUNITY DEVELOPMENT, YOUTH AND SPORTS": {
+                "Singapore Sports Council": {
+                    "Irregularities in Procurement": [
+                        39,
+                        40,
+                        41
+                    ],
+                    "Lapses in Selection of Firms for Audit Shared Services Scheme": [
+                        42,
+                        43
+                    ]
+                }
+            },
+            "MINISTRY OF EDUCATION": {
+                "Institute of Southeast Asian Studies": {
+                    "Irregularities in Procurement": [
+                        44,
+                        45
+                    ],
+                    "Weaknesses in Control of Vouchers": [
+                        46
+                    ]
+                },
+                "Science Centre Board": {
+                    "Irregularities in Procurement": [
+                        46,
+                        47,
+                        48
+                    ]
+                }
+            },
+            "MINISTRY OF FINANCE": {
+                "Accounting and Corporate Regulatory Authority": {
+                    "Lapses in Access Controls": [
+                        49
+                    ],
+                    "Weaknesses in Controls over Refunds": [
+                        50
+                    ]
+                },
+                "Inland Revenue Authority of Singapore": {
+                    "IT Control Weaknesses in Stamp Duty System": [
+                        51
+                    ]
+                }
+            },
+            "MINISTRY OF MANPOWER": {
+                "Singapore Workforce Development Agency": {
+                    "Lapses in Procurement of Training Services": [
+                        52,
+                        53
+                    ]
+                }
+            },
+            "MINISTRY OF NATIONAL DEVELOPMENT": {
+                "National Parks Board": {
+                    "Lapses in Procurement": [
+                        54,
+                        55
+                    ],
+                    "Performance Not Adequately Taken into Account in Payment to Contractors": [
+                        56
+                    ]
+                }
+            },
+            "MINISTRY OF THE ENVIRONMENT AND WATER RESOURCES": {
+                "National Environment Agency": {
+                    "Poor Management of Street Cleansing Contracts": [
+                        57,
+                        58
+                    ]
+                },
+                "Public Utilities Board": {
+                    "Lapses in Procurement": [
+                        59,
+                        60
+                    ]
+                }
+            },
+            "MINISTRY OF TRADE AND INDUSTRY": {
+                "Sentosa Development Corporation": {
+                    "Lapses in Procurement": [
+                        61
+                    ],
+                    "Lapses in Control over Sale of Tickets": [
+                        62,
+                        63
+                    ]
+                },
+                "Singapore Tourism Board": {
+                    "Weaknesses in Management of Artefacts": [
+                        64
+                    ]
+                }
+            }
+        },
+        "PART III : AUDIT OF GOVERNMENT-OWNED COMPANIES AND OTHER ACCOUNTS": {
+            "SUMMARY": [
+                65,
+                66
+            ]
+        },
+        "APPENDICES": {
+            "Appendix I : AGO\u2019s Audit Authority": [
+                67,
+                68,
+                69,
+                70,
+                71
+            ],
+            "Appendix II : Criteria for Appointment of Auditors": [
+                72,
+                73
+            ]
+        }
+    },
+    "2008_09": {
+        "AUDITOR-GENERAL\u2019S OVERVIEW": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "PART I A : AUDIT OF GOVERNMENT FINANCIAL STATEMENTS": {
+            "SUMMARY": [
+                5
+            ]
+        },
+        "PART I B : SELECTED AUDIT OBSERVATIONS ON GOVERNMENT MINISTRIES AND ORGANS OF STATE": {
+            "Ministry of Defence": [
+                6
+            ],
+            "Ministry of Education": [
+                7
+            ],
+            "Ministry of Foreign Affairs": [
+                8
+            ],
+            "Ministry of Health": [
+                9,
+                10
+            ],
+            "Ministry of National Development": [
+                11
+            ],
+            "Prime Minister\u2019s Office": [
+                12
+            ]
+        },
+        "PART II A : AUDIT OF STATUTORY BOARDS": {
+            "SUMMARY": [
+                13,
+                14
+            ]
+        },
+        "PART II B : SELECTED AUDIT OBSERVATIONS ON STATUTORY BOARDS": {
+            "Ministry of Education": {
+                "Institute of Technical Education": [
+                    15,
+                    16,
+                    17,
+                    18
+                ],
+                "Singapore Polytechnic": [19]
+            },
+            "Ministry of Finance": {
+                "Inland Revenue Authority of Singapore": [
+                    19,
+                    20
+                ]
+            },
+            "Ministry of Information, Communications and the Arts": {
+                "Media Development Authority": [
+                    21,
+                    22,
+                    23,
+                    24,
+                    25,
+                    26,
+                    27,
+                    28
+                ]
+            },
+            "Ministry of National Development": {
+                "Agri-Food and Veterinary Authority": [
+                    29
+                ],
+                "Housing and Development Board": [
+                    30
+                ],
+                "Urban Redevelopment Authority": [
+                    31
+                ]
+            },
+            "Ministry of Trade and Industry": {
+                "Standards, Productivity and Innovation Board": [
+                    32
+                ]
+            },
+            "Other Observations": [
+                33,
+                34
+            ]
+        },
+        "PART III : AUDIT OF GOVERNMENT-OWNED COMPANIES AND OTHER ACCOUNTS": {
+            "SUMMARY": [
+                35, 36
+            ]
+        },
+        "Appendix I: Duties and Powers of Auditor-General": [37, 38],
+        "Appendix II: Criteria for Appointment of Auditors": [39, 40]
+    },
+    "2010_11": {
+        "OVERVIEW": {
+            "SUMMARY": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        "PART I A : AUDIT OF GOVERNMENT FINANCIAL STATEMENTS": {
+            "SUMMARY": [
+                6
+            ]
+        },
+        "PART I B : AUDIT OF GOVERNMENT MINISTRIES, ORGANS OF STATE AND GOVERNMENT FUNDS": {
+            "SUMMARY": [
+                7
+            ],
+            "Ministry of Defence": [
+                8,
+                9,
+                10
+            ],
+            "Ministry of Education": [
+                11,
+                12
+            ],
+            "Ministry of Finance": [
+                13
+            ],
+            "Ministry of Home Affairs": [
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ],
+            "Ministry of National Development": [
+                21,
+                22
+            ],
+            "Ministry of Trade and Industry": [
+                23,
+                24
+            ]
+        },
+        "PART II : AUDIT OF STATUTORY BOARDS": {
+            "SUMMARY": [
+                25,
+                26
+            ],
+            "Ministry of Community Development, Youth and Sports Majlis Ugama Islam Singapura": [
+                27
+            ],
+            "Ministry of Finance, Inland Revenue Authority of Singapore": [
+                28
+            ],
+            "Ministry of Information, Communications and the Arts, Info-communications Development Authority of Singapore": [
+                28,
+                29
+            ],
+            "Ministry of National Development, Building and Construction Authority": [
+                30
+            ],
+            "Ministry of Trade and Industry, Economic Development Board": [
+                31
+            ],
+            "Ministry of Trade and Industry, International Enterprise Singapore Board": [
+                32,
+                33
+            ],
+            "Ministry of Transport, Land Transport Authority of Singapore": [
+                34,
+                35
+            ],
+            "Ministry of Transport, Maritime and Port Authority of Singapore": [
+                36,
+                37
+            ]
+        },
+        "PART III : AUDIT OF GOVERNMENT-OWNED COMPANIES AND OTHER ACCOUNTS": {
+            "SUMMARY": [
+                38,
+                39
+            ]
+        },
+        "APPENDICES": {
+            "Appendix I : Audit Authority": [
+                40,
+                41,
+                42,
+                43,
+                44
+            ],
+            "Appendix II : Criteria for Appointment of Auditors": [
+                45,
+                46,
+                47
+            ]
+        }
+    },
+    "2019_20": {
+        "OVERVIEW": {
+            "SUMMARY": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ]
+        },
+        "PART I A : AUDIT OF GOVERNMENT FINANCIAL STATEMENTS": {
+            "SUMMARY": [
+                11,
+                12
+            ]
+        },
+        "PART I B : AUDIT OF GOVERNMENT MINISTRIES, ORGANS OF STATE AND GOVERNMENT FUNDS": {
+            "SUMMARY": [
+                13
+            ],
+            "MINISTRY OF FINANCE": {
+                "Accountant-General\u2019s Department": {
+                    "Weak Controls over the Most Privileged Operating System User Account": [
+                        14,
+                        15,
+                        16
+                    ]
+                }
+            },
+            "PRIME MINISTER\u2019S OFFICE": {
+                "Public Service Division": {
+                    "Weak Controls over Privileged Operating System Accounts": [
+                        17,
+                        18
+                    ]
+                }
+            },
+            "MINISTRY OF FOREIGN AFFAIRS": {
+                "Weak Enforcement of Terms in Service Agreements with Authorised Visa Agents": [
+                    19,
+                    20
+                ],
+                "ICT Controls and Governance Need to be Strengthened": [
+                    21,
+                    22,
+                    23,
+                    24
+                ]
+            }
+        },
+        "PART II : AUDIT OF STATUTORY BOARDS": {
+            "SUMMARY": [
+                25,
+                26,
+                27
+            ],
+            "MINISTRY OF COMMUNICATIONS AND INFORMATION": {
+                "National Library Board": {
+                    "Lapses in Procurement": [
+                        28,
+                        29
+                    ],
+                    "Lapses in Management of Contract Variations for the National Archives Development Project": [
+                        30,
+                        31,
+                        32
+                    ]
+                }
+            },
+            "MINISTRY OF EDUCATION": {
+                "Ngee Ann Polytechnic": {
+                    "Inadequate Review of Critical Database Activities Carried Out Using Privileged Database User Accounts": [
+                        33
+                    ]
+                },
+                "Republic Polytechnic": {
+                    "Electronic Payment Files Not Secured": [
+                        34,
+                        35
+                    ]
+                }
+            },
+            "MINISTRY OF THE ENVIRONMENT AND WATER RESOURCES": {
+                "Public Utilities Board": {
+                    "Weaknesses in Controls over Payments under PPP Project": [
+                        36
+                    ],
+                    "Lapses in Access Controls over IT System for PPP Project": [
+                        37,
+                        38
+                    ],
+                    "Lapses in Management of Development Project": [
+                        39,
+                        40,
+                        41
+                    ]
+                }
+            },
+            "MINISTRY OF TRADE AND INDUSTRY": {
+                "Jurong Town Corporation": {
+                    "Unauthorised Subletting of Leased and Tenanted Premises": [
+                        42
+                    ],
+                    "Illegal Storage and Sale of Diesel at Leased Premises": [
+                        43
+                    ],
+                    "Payment to Terminated Contractor Could Have Been Withheld": [
+                        44
+                    ],
+                    "Weaknesses in Cash Collection Process and Falsification of Receipts": [
+                        45
+                    ],
+                    "Possible Irregularities Noted in Quotations": [
+                        46,
+                        47
+                    ]
+                }
+            },
+            "PRIME MINISTER\u2019S OFFICE": {
+                "Government Technology Agency": {
+                    "Lapses in Procurement Evaluation": [
+                        48,
+                        49,
+                        50,
+                        51,
+                        52
+                    ]
+                }
+            }
+        },
+        "PART III : THEMATIC AUDIT": {
+            "SUMMARY": [
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61
+            ],
+            "MINISTRY OF MANPOWER": {
+                "Workforce Singapore Agency": {
+                    "Inconsistent Practices across Programme Partners in Grant Administration": [
+                        62
+                    ],
+                    "Inadequate Assessment of Career Conversion": [
+                        62
+                    ],
+                    "No Assurance of Cost Reasonableness of Items to be Supported": [
+                        63
+                    ],
+                    "Inadequate Assessment of Eligibility for Grant Support": [
+                        64
+                    ],
+                    "Inconsistent Practice in Determining Grant Quantum": [
+                        64
+                    ],
+                    "Circumvention of Approval Limits by Not Aggregating Grant Applications": [
+                        65
+                    ],
+                    "Possible Circumvention of Eligibility Criterion and Possible Fraudulent Grant Claims": [
+                        65
+                    ],
+                    "Double Funding of Companies": [
+                        66
+                    ],
+                    "Delays in Grant Disbursements": [
+                        67
+                    ],
+                    "Master Grant Record Not Accurate for Proper Grant Management": [
+                        68
+                    ],
+                    "Monitoring of PCP Outcomes Needs to be Strengthened": [
+                        69
+                    ],
+                    "Lack of Monitoring of Cases with Outstanding Claims": [
+                        69
+                    ],
+                    "Recovery of Unutilised Grants Could be Improved": [
+                        70
+                    ],
+                    "Weaknesses in IT Controls": [
+                        70,
+                        71,
+                        72,
+                        73
+                    ]
+                }
+            },
+            "MINISTRY OF TRADE AND INDUSTRY": {
+                "Enterprise Singapore Board": {
+                    "Approval Not Sought for Deviations from Grant Guidelines and Grant Agreement": [
+                        74
+                    ],
+                    "Inconsistencies in Performing Financial Assessment and Assessing Grant Eligibility": [
+                        75
+                    ],
+                    "Gaps in Assessing Projections and Proposed Costs": [
+                        76
+                    ],
+                    "Lapses in Grant Disbursements": [
+                        77
+                    ],
+                    "Basis for Funding Manpower Costs Needs to be Reviewed": [
+                        77
+                    ],
+                    "Inadequate Controls to Detect Circumvention of Local Shareholding Criterion": [
+                        78
+                    ],
+                    "Inadequate Monitoring of Disbursements to Companies": [
+                        79
+                    ],
+                    "Follow-up on Lapsed Projects Could be Improved": [
+                        79
+                    ],
+                    "Weaknesses in IT Controls": [
+                        80,
+                        81,
+                        82,
+                        83
+                    ]
+                }
+            }
+        },
+        "PART IV : AUDIT OF GOVERNMENT-OWNED COMPANIES AND OTHER ACCOUNTS": {
+            "SUMMARY": [
+                84,
+                85
+            ]
+        },
+        "ANNEXES": {
+            "Annex I : AGO\u2019s Audit Authority": [
+                86,
+                87,
+                88,
+                89,
+                90
+            ],
+            "Annex II : Criteria for Appointment of Auditors": [
+                91,
+                92,
+                93
+            ]
+        }
+    },
+    "2013_14": {
+        "OVERVIEW": {
+            "SUMMARY": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8
+            ]
+        },
+        "PART I A : AUDIT OF GOVERNMENT FINANCIAL STATEMENTS": {
+            "SUMMARY": [
+                9
+            ]
+        },
+        "PART I B : AUDIT OF GOVERNMENT MINISTRIES, ORGANS OF STATE AND GOVERNMENT FUNDS": {
+            "SUMMARY": [
+                10
+            ],
+            "MINISTRY OF DEFENCE": {
+                "Lapses in the Licensing of Land": [
+                    11,
+                    12
+                ],
+                "Lapses in Administration and Maintenance of Land": [
+                    13
+                ]
+            },
+            "MINISTRY OF EDUCATION": {
+                "Control Weaknesses in Processing of Housing Allowance Payments": [
+                    14
+                ],
+                "Late or Non-recovery of Salaries and Related Costs of Seconded Staff": [
+                    15
+                ],
+                "Lapses in Tender Evaluation and Contract Management": [
+                    16,
+                    17
+                ]
+            },
+            "MINISTRY OF FOREIGN AFFAIRS": {
+                "Contracts Made Outside Singapore Not Signed by Authorised Signatories": [
+                    18
+                ]
+            },
+            "MINISTRY OF HEALTH": {
+                "Financial Assistance Not Ceased for Deceased Persons": [
+                    19
+                ]
+            },
+            "MINISTRY OF HOME AFFAIRS": {
+                "Singapore Civil Defence Force": {
+                    "Lapses in Controls over Financial Commitments and Payments": [
+                        19
+                    ],
+                    "Misuse of Funds Stored in Cash Cards": [
+                        20
+                    ],
+                    "Prior Approval Not Sought for Changes in Procurement Requirements": [
+                        21,
+                        22
+                    ]
+                }
+            }
+        },
+        "PART II : AUDIT OF STATUTORY BOARDS": {
+            "SUMMARY": [
+                23,
+                24
+            ],
+            "MINISTRY OF COMMUNICATIONS AND INFORMATION": {
+                "Media Development Authority": {
+                    "Lapses in Administration of Grants": [
+                        25,
+                        26
+                    ],
+                    "Lapses in Evaluation of Projects for Funding": [
+                        27
+                    ]
+                },
+                "National Library Board": {
+                    "Lapses in Procurement of Library Materials": [
+                        27,
+                        28
+                    ]
+                }
+            },
+            "MINISTRY OF CULTURE, COMMUNITY AND YOUTH": {
+                "National Heritage Board": {
+                    "Irregularities in Management of Variation Works": [
+                        29,
+                        30
+                    ]
+                }
+            },
+            "MINISTRY OF EDUCATION": {
+                "Singapore Examinations and Assessment Board": {
+                    "Lapses in Appointment and Monitoring of Former Staff Engaged for Projects": [
+                        31,
+                        32
+                    ]
+                }
+            },
+            "MINISTRY OF FINANCE": {
+                "Inland Revenue Authority of Singapore": {
+                    "Lapses in Administration of Goods and Services Tax Refunds under Tourist Refund Scheme": [
+                        33
+                    ]
+                },
+                "Singapore Totalisator Board": {
+                    "Gaps in Controls over Administration of Social Enterprise Hub Programme": [
+                        34,
+                        35
+                    ]
+                }
+            },
+            "MINISTRY OF HEALTH": {
+                "Health Sciences Authority": {
+                    "Lax Control over Approval of Applications for Import of Medicinal Products": [
+                        36
+                    ],
+                    "Weak Controls over Seized Items": [
+                        37,
+                        38
+                    ],
+                    "Contracts Awarded to Incumbent Contractors that Did Not Meet Tender Requirements": [
+                        39,
+                        40
+                    ]
+                }
+            },
+            "MINISTRY OF MANPOWER": {
+                "Central Provident Fund Board": {
+                    "Lapses in Managing Waiver of Competition, Purchases and Approval of Ad Hoc Works": [
+                        41,
+                        42
+                    ],
+                    "Wrong CPF Contributions for Employees Performing Operationally Ready National Service": [
+                        43
+                    ],
+                    "Lapses in Monitoring and Following Up of Erroneous Medisave Claims": [
+                        44
+                    ],
+                    "Incomplete Data for Assessing Eligibility for Workfare Income Supplement Benefits": [
+                        45
+                    ]
+                }
+            },
+            "MINISTRY OF NATIONAL DEVELOPMENT": {
+                "Agri-Food and Veterinary Authority": {
+                    "Under-utilisation of Land, Buildings and Facilities": [
+                        46,
+                        47
+                    ],
+                    "Assets Under-utilised or Left Unused": [
+                        48
+                    ],
+                    "Weaknesses in Evaluation of Research Projects": [
+                        49
+                    ]
+                },
+                "National Parks Board": {
+                    "Creating and Backdating of Documents Furnished for Audit": [
+                        50
+                    ]
+                }
+            },
+            "MINISTRY OF SOCIAL AND FAMILY DEVELOPMENT": {
+                "National Council of Social Service": {
+                    "Irregularities at Various Stages of Procurement": [
+                        51,
+                        52,
+                        53
+                    ]
+                }
+            },
+            "MINISTRY OF THE ENVIRONMENT AND WATER RESOURCES": {
+                "National Environment Agency": {
+                    "Inadequate Follow-up on Possible Breaches of Tenancy Conditions": [
+                        54,
+                        55
+                    ]
+                }
+            },
+            "MINISTRY OF TRADE AND INDUSTRY": {
+                "Standards, Productivity and Innovation Board": {
+                    "Lapses in Procurement of Services to Administer an Award": [
+                        56
+                    ]
+                }
+            }
+        },
+        "PART III : AUDIT OF GOVERNMENT-OWNED COMPANIES AND OTHER ACCOUNTS": {
+            "SUMMARY": [
+                57,
+                58
+            ]
+        },
+        "ANNEXES": {
+            "Annex I : AGO\u2019s Audit Authority": [
+                59,
+                60,
+                61,
+                62,
+                63
+            ],
+            "Annex II : Criteria for Appointment of Auditors": [
+                64,
+                65,
+                66
+            ]
+        }
+    },
+    "2012_13": {
+        "OVERVIEW": {
+            "SUMMARY": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        "PART I A: AUDIT OF GOVERNMENT FINANCIAL STATEMENTS": {
+            "SUMMARY": [
+                7
+            ]
+        },
+        "PART I B: AUDIT OF GOVERNMENT MINISTRIES, ORGANS OF STATE AND GOVERNMENT FUNDS": {
+            "SUMMARY": [
+                8
+            ],
+            "MINISTRY OF DEFENCE": {
+                "Inadequate Oversight over Project to Enhance Fitness Corners": [
+                    9,
+                    10
+                ],
+                "Lapses in Logistics and Contract Management": [
+                    11
+                ],
+                "Unauthorised Payments from Pension Fund": [
+                    12
+                ]
+            },
+            "MINISTRY OF FINANCE": {
+                "Accountant-General\u2019s Department": {
+                    "Inadequate Controls to Detect IT Security Breaches": [
+                        13
+                    ]
+                }
+            },
+            "MINISTRY OF FOREIGN AFFAIRS": {
+                "Lapses in Procurement": [
+                    14,
+                    15
+                ]
+            },
+            "MINISTRY OF HEALTH": {
+                "Claims Over-valued by $0.30 Million": [
+                    16
+                ]
+            },
+            "MINISTRY OF HOME AFFAIRS": {
+                "Singapore Civil Defence Force": {
+                    "Weaknesses in Management of Gift Vouchers": [
+                        17,
+                        18
+                    ],
+                    "Lapses in Tender Evaluation": [
+                        19
+                    ],
+                    "Lapses in Management of User Accounts": [
+                        20
+                    ]
+                }
+            },
+            "MINISTRY OF LAW": {
+                "Weak Access Controls over Database Records": [
+                    21
+                ]
+            },
+            "MINISTRY OF THE ENVIRONMENT AND WATER RESOURCES": {
+                "Lapses in Controls over Payments": [
+                    22
+                ]
+            },
+            "PRIME MINISTER\u2019S OFFICE": {
+                "National Research Foundation": {
+                    "Irregularities in Management of Campus Development Project": [
+                        23,
+                        24
+                    ]
+                },
+                "Public Service Division": {
+                    "Poor Maintenance of Government Resorts": [
+                        25
+                    ]
+                }
+            }
+        },
+        "PART II: AUDIT OF STATUTORY BOARDS": {
+            "SUMMARY": [
+                26,
+                27
+            ],
+            "MINISTRY OF COMMUNICATIONS AND INFORMATION": {
+                "Media Development Authority": {
+                    "Irregularities in Procurement": [
+                        28,
+                        29
+                    ],
+                    "Lapses in Administration of Film Distribution and Exhibition Licensing": [
+                        30
+                    ],
+                    "Lapses in Evaluation and Approval of Research Projects": [
+                        31
+                    ]
+                }
+            },
+            "MINISTRY OF CULTURE, COMMUNITY AND YOUTH": {
+                "Majlis Ugama Islam Singapura": {
+                    "Laxity in Monitoring and Collection of Debts": [
+                        32
+                    ],
+                    "Lapses in Management of Haj Administration Fees": [
+                        33
+                    ],
+                    "Irregularities in Procurement": [
+                        34
+                    ],
+                    "Lapses in Tenders for Appointment of Service Provider": [
+                        35
+                    ]
+                }
+            },
+            "MINISTRY OF EDUCATION": {
+                "Ngee Ann Polytechnic": {
+                    "No Assurance of Value for Money for Provisional Sum Items": [
+                        36
+                    ],
+                    "Lapses in Procurement of Graduation Attire and Related Services": [
+                        37
+                    ]
+                },
+                "Republic Polytechnic": {
+                    "Outsourcing Had Effect of Circumventing Control over Headcount": [
+                        38
+                    ],
+                    "Lapses in Tender Process": [
+                        39,
+                        40
+                    ],
+                    "Related Party Given Preferential Treatment": [
+                        41
+                    ]
+                }
+            },
+            "MINISTRY OF FINANCE": {
+                "Accounting and Corporate Regulatory Authority": {
+                    "Application Support Engineers Granted Inappropriate Access Rights to Data Files": [
+                        42
+                    ]
+                }
+            },
+            "MINISTRY OF LAW": {
+                "Singapore Land Authority": {
+                    "Ineffective Management of Maintenance Contracts": [
+                        43
+                    ]
+                }
+            },
+            "MINISTRY OF MANPOWER": {
+                "Central Provident Fund Board": {
+                    "Wastage from Software Not Installed after Purchase of Licences": [
+                        44
+                    ]
+                }
+            },
+            "MINISTRY OF NATIONAL DEVELOPMENT": {
+                "Housing and Development Board": {
+                    "Ineffective Management of Car Park Enforcement Contracts": [
+                        45,
+                        46
+                    ],
+                    "Poor Maintenance of Vacant Land": [
+                        47
+                    ]
+                },
+                "Urban Redevelopment Authority": {
+                    "Poor Management of Car Park Enforcement Contract": [
+                        48
+                    ],
+                    "Lapses in Procurement of Field Inspection Services": [
+                        49
+                    ],
+                    "Improper Advance Payments": [
+                        50
+                    ]
+                }
+            },
+            "MINISTRY OF THE ENVIRONMENT AND WATER RESOURCES": {
+                "Public Utilities Board": {
+                    "Irregularities in Small Value Purchases": [
+                        51
+                    ]
+                }
+            },
+            "MINISTRY OF TRADE AND INDUSTRY": {
+                "Sentosa Development Corporation": {
+                    "Staff Not Subject to Personnel Rules for Statutory Boards": [
+                        52,
+                        53
+                    ]
+                }
+            }
+        },
+        "PART III: AUDIT OF GOVERNMENT-OWNED COMPANIES AND OTHER ACCOUNTS": {
+            "SUMMARY": [
+                54,
+                55
+            ]
+        },
+        "ANNEXES": {
+            "Annex I: AGO\u2019s Audit Authority": [
+                56,
+                57,
+                58,
+                59,
+                60
+            ],
+            "Annex II: Criteria for Appointment of Auditors": [
+                61,
+                62,
+                63
+            ]
+        }
+    },
+    "2021_22": {
+        "OVERVIEW": {
+            "SUMMARY": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        "PART I A : AUDIT OF GOVERNMENT FINANCIAL STATEMENTS": {
+            "SUMMARY": [
+                13,
+                14
+            ]
+        },
+        "PART I B : AUDIT OF GOVERNMENT MINISTRIES, ORGANS OF STATE AND GOVERNMENT FUNDS": {
+            "SUMMARY": [
+                15,
+                16
+            ],
+            "MINISTRY OF DEFENCE": {
+                "Errors in Payment of Flexible Benefits Allowances": [
+                    17,
+                    18
+                ]
+            },
+            "MINISTRY OF FINANCE": {
+                "Goods and Services Tax Voucher Fund": {
+                    "GSTV-U-Save Rebates Given to Ineligible Households": [
+                        19
+                    ]
+                }
+            },
+            "MINISTRY OF HOME AFFAIRS": {
+                "Weaknesses in Management of Contract Variations": [
+                    20,
+                    21
+                ],
+                "Possible Irregularities in Quotations for Star Rate Items": [
+                    22
+                ]
+            },
+            "MINISTRY OF SOCIAL AND FAMILY DEVELOPMENT": {
+                "Community Care Endowment Fund": {
+                    "Lapses in Controls over Cash and Supermarket Vouchers": [
+                        23,
+                        24
+                    ],
+                    "Weaknesses in Management of Accounts in IT System": [
+                        25,
+                        26
+                    ]
+                }
+            }
+        },
+        "PART I C : OTHER AUDITS \u2013 AUDIT OF WHOLE-OF-GOVERNMENT CONTRACT FOR COMMUNICATIONS CAMPAIGNS": {
+            "SUMMARY": [
+                27,
+                28
+            ],
+            "MINISTRY OF COMMUNICATIONS AND INFORMATION": {
+                "Lack of Clarity on Units of Measurement for Tenderers to Submit Bids": [
+                    29
+                ],
+                "Inadequate Evaluation of Tender": [
+                    30
+                ],
+                "Approval for Contract Variation Not Obtained from Appropriate Authority": [
+                    30
+                ],
+                "No Monitoring of Spread of Awards to Vendors": [
+                    31,
+                    32
+                ]
+            },
+            "MINISTRY OF SUSTAINABILITY AND THE ENVIRONMENT": {
+                "Public Utilities Board": {
+                    "Lapses in Procurement for Communications Campaigns": [
+                        33,
+                        34,
+                        35
+                    ]
+                }
+            }
+        },
+        "PART II : AUDIT OF STATUTORY BOARDS": {
+            "SUMMARY": [
+                36,
+                37
+            ],
+            "MINISTRY OF EDUCATION": {
+                "SkillsFuture Singapore Agency": {
+                    "Lapses in Management of Grants": [
+                        38,
+                        39,
+                        40,
+                        41,
+                        42
+                    ],
+                    "Laxity in Enforcement of Outstanding Skills Development Levy Collections": [
+                        43,
+                        44
+                    ]
+                }
+            },
+            "MINISTRY OF SUSTAINABILITY AND THE ENVIRONMENT": {
+                "National Environment Agency": {
+                    "Vehicles Exceeding Maximum Laden Weight Not Reported to Relevant Authority": [
+                        45
+                    ],
+                    "Possible Irregularities in Quotations Submitted for Grant Applications": [
+                        46,
+                        47
+                    ]
+                }
+            }
+        },
+        "PART III : THEMATIC AUDIT \u2013 COVID-19 RELATED PROCUREMENT AND EXPENDITURE": {
+            "SUMMARY": [
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57
+            ],
+            "MINISTRY OF HEALTH": {
+                "Health Promotion Board": {
+                    "Ensure Proper Documentation Maintained": [
+                        58,
+                        59
+                    ],
+                    "Improve Controls Over Payments": [
+                        60
+                    ],
+                    "Ensure Timely Deactivation of Accounts of Terminated Personnel": [
+                        61,
+                        62,
+                        63,
+                        64
+                    ]
+                }
+            },
+            "MINISTRY OF LAW": {
+                "Singapore Land Authority": {
+                    "Ensure Adequate Evaluation and Price Reasonableness Assessment": [
+                        65,
+                        66
+                    ],
+                    "Improve Contracting and Contract Management Process": [
+                        67,
+                        68
+                    ],
+                    "Maintain Adequate Oversight of Contracts for Build and Run Sites": [
+                        69
+                    ],
+                    "Improve Management of Payments": [
+                        70
+                    ],
+                    "Possible Irregularities in Quotations Received": [
+                        71,
+                        72,
+                        73,
+                        74
+                    ]
+                }
+            },
+            "MINISTRY OF MANPOWER": {
+                "Improve Management of Procurement of Managing Agent Services": [
+                    75,
+                    76
+                ],
+                "Improve Evaluation of Procurement": [
+                    77,
+                    78
+                ],
+                "Improve Contracting and Contract Management Process": [
+                    79,
+                    80
+                ],
+                "Improve Management of Payments": [
+                    81,
+                    82,
+                    83
+                ],
+                "Discrepancies and Omissions Relating to Extension of Contract": [
+                    84
+                ]
+            }
+        },
+        "PART IV : AUDIT OF GOVERNMENT-OWNED COMPANIES AND OTHER ACCOUNTS": {
+            "SUMMARY": [
+                85,
+                86
+            ]
+        },
+        "ANNEXES": {
+            "Annex I : AGO\u2019s Audit Authority": [
+                87,
+                88,
+                89,
+                90,
+                91
+            ],
+            "Annex II : Criteria for Appointment of Auditors": [
+                92,
+                93,
+                94
+            ]
+        }
+    },
+    "2016_17": {
+        "OVERVIEW": {
+            "SUMMARY": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ]
+        },
+        "PART I A : AUDIT OF GOVERNMENT FINANCIAL STATEMENTS": {
+            "SUMMARY": [
+                11
+            ]
+        },
+        "PART I B : AUDIT OF GOVERNMENT MINISTRIES, ORGANS OF STATE AND GOVERNMENT FUNDS": {
+            "SUMMARY": [
+                12,
+                13
+            ],
+            "MINISTRY OF HEALTH": {
+                "Inadequate Oversight in Contract Management of Hospital Development Project": [
+                    14,
+                    15,
+                    16
+                ],
+                "Irregularities in Seeking Approvals for Contract Variations": [
+                    17,
+                    18
+                ]
+            },
+            "ElderCare Fund": {
+                "Incorrect Subventions Due to Failure of Controls": [
+                    19,
+                    20
+                ]
+            },
+            "MINISTRY OF SOCIAL AND FAMILY DEVELOPMENT": {
+                "Poor Oversight of Activities Carried Out in IT Systems": [
+                    21
+                ],
+                "Incorrect Reimbursements for Government-Paid Paternity Leave": [
+                    22,
+                    23
+                ]
+            }
+        },
+        "PART II : AUDIT OF STATUTORY BOARDS": {
+            "SUMMARY": [
+                24,
+                25,
+                26
+            ],
+            "MINISTRY OF CULTURE, COMMUNITY AND YOUTH": {
+                "Singapore Sports Council (also known as Sport Singapore)": {
+                    "Late Payments": [
+                        27
+                    ],
+                    "Inadequate Controls over Sponsored Electronic Devices": [
+                        27,
+                        28
+                    ]
+                }
+            },
+            "MINISTRY OF HOME AFFAIRS": {
+                "Singapore Corporation of Rehabilitative Enterprises": {
+                    "Weak Controls over Payroll Processing System": [
+                        29,
+                        30
+                    ],
+                    "Lapses in Procurement and Payment": [
+                        31,
+                        32,
+                        33,
+                        34,
+                        35
+                    ]
+                }
+            },
+            "MINISTRY OF MANPOWER": {
+                "Central Provident Fund Board": {
+                    "Lapses in Management of IT Security Monitoring Systems": [
+                        36,
+                        37,
+                        38
+                    ],
+                    "Lapses in Controls over Access to IT Systems for Temporary Staff": [
+                        39,
+                        40
+                    ]
+                }
+            },
+            "MINISTRY OF NATIONAL DEVELOPMENT": {
+                "National Parks Board": {
+                    "Lapses in Management of User Accounts in IT System": [
+                        41,
+                        42
+                    ]
+                }
+            },
+            "MINISTRY OF TRADE AND INDUSTRY": {
+                "Economic Development Board": {
+                    "Lapses in Procurement": [
+                        43,
+                        44,
+                        45
+                    ],
+                    "Lapses in Administration of Grants": [
+                        46,
+                        47,
+                        48
+                    ]
+                }
+            }
+        },
+        "PART III : AUDIT OF GOVERNMENT-OWNED COMPANIES AND OTHER ACCOUNTS": {
+            "SUMMARY": [
+                49,
+                50
+            ]
+        },
+        "ANNEXES": {
+            "Annex I : AGO\u2019s Audit Authority": [
+                51,
+                52,
+                53,
+                54,
+                55
+            ],
+            "Annex II : Criteria for Appointment of Auditors": [
+                56,
+                57,
+                58
+            ]
+        }
+    },
+    "2020_21": {
+        "CONTENTS": {
+            "OVERVIEW": {
+                "SUMMARY": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10
+                ]
+            },
+            "PART I A : AUDIT OF GOVERNMENT FINANCIAL STATEMENTS": {
+                "SUMMARY": [
+                    11,
+                    12
+                ]
+            },
+            "PART I B : AUDIT OF GOVERNMENT MINISTRIES, ORGANS OF STATE AND GOVERNMENT FUNDS": {
+                "SUMMARY": [
+                    13
+                ],
+                "MINISTRY OF CULTURE, COMMUNITY AND YOUTH": {
+                    "Fabrication of Documents for Audit and Weaknesses in Controls over Claim Processing": [
+                        14,
+                        15
+                    ]
+                },
+                "MINISTRY OF DEFENCE": {
+                    "Overpayment for Contracted Healthcare Services": [
+                        16
+                    ]
+                },
+                "MINISTRY OF FINANCE": {
+                    "Accountant-General\u2019s Department": {
+                        "Weak Controls over the Most Privileged Operating System User Account and Monitoring of Privileged User Activities": [
+                            17,
+                            18,
+                            19
+                        ]
+                    }
+                },
+                "PRIME MINISTER\u2019S OFFICE": {
+                    "Public Service Division": {
+                        "Areas for Improvement in Administration of Civil Service Medical and Dental Benefits": [
+                            20,
+                            21,
+                            22,
+                            23,
+                            24,
+                            25
+                        ]
+                    }
+                }
+            },
+            "PART II : AUDIT OF STATUTORY BOARDS": {
+                "SUMMARY": [
+                    26,
+                    27
+                ],
+                "MINISTRY OF COMMUNICATIONS AND INFORMATION": {
+                    "National Library Board": {
+                        "Lapses in Procurement of Digital Film Projection System": [
+                            28,
+                            29,
+                            30
+                        ]
+                    }
+                },
+                "MINISTRY OF CULTURE, COMMUNITY AND YOUTH": {
+                    "National Arts Council": {
+                        "Inadequate Oversight of Usage and Subletting of Arts Housing Premises": [
+                            31,
+                            32,
+                            33
+                        ]
+                    },
+                    "National Heritage Board": {
+                        "Weaknesses in Records Management of Heritage Materials": [
+                            34,
+                            35
+                        ],
+                        "Lapses in Evaluation of Tenders for Period Contracts": [
+                            36,
+                            37,
+                            38
+                        ]
+                    },
+                    "People\u2019s Association": {
+                        "Lapses in Contract Management of Development Projects": [
+                            39,
+                            40,
+                            41,
+                            42
+                        ],
+                        "Possible Irregularities in Documents Relating to Payments": [
+                            43
+                        ],
+                        "Possible Lapses and Irregularities in Management of Term Contracts": [
+                            43,
+                            44,
+                            45
+                        ],
+                        "Critical Tender Requirements Not Explicitly Incorporated into Tenancy Agreements": [
+                            46,
+                            47
+                        ]
+                    }
+                },
+                "MINISTRY OF EDUCATION": {
+                    "Singapore Polytechnic": {
+                        "Debarment Recommendation Reports Not Put Up for Withdrawal of Tender Bids before Award": [
+                            48
+                        ]
+                    }
+                },
+                "MINISTRY OF FINANCE": {
+                    "Accounting and Corporate Regulatory Authority": {
+                        "Weak Controls over the Most Privileged Operating System User Account": [
+                            49,
+                            50
+                        ]
+                    }
+                },
+                "MINISTRY OF HEALTH": {
+                    "Health Promotion Board": {
+                        "Lapses in Management of Fitness Trackers Stock": [
+                            51,
+                            52,
+                            53
+                        ],
+                        "Lapses in Management of Loyalty Programme": [
+                            54,
+                            55,
+                            56
+                        ]
+                    },
+                    "Health Sciences Authority": {
+                        "Purchases Should be Aggregated for Competitive Prices and Efficiency": [
+                            57
+                        ],
+                        "Lapses in Management of Outsourced IT Contract": [
+                            58,
+                            59,
+                            60
+                        ],
+                        "Lapses in Management of Seizure Stores": [
+                            61
+                        ],
+                        "Weaknesses in IT Application Controls": [
+                            62,
+                            63
+                        ]
+                    }
+                },
+                "MINISTRY OF NATIONAL DEVELOPMENT": {
+                    "Housing and Development Board": {
+                        "Housing Grants Disbursed to Ineligible Applicants": [
+                            64
+                        ],
+                        "Lapses in Assessment of Price Reasonableness of Single Bids": [
+                            65
+                        ],
+                        "Possible Irregularities Noted in Quotations": [
+                            66
+                        ],
+                        "Inadequate Monitoring of Car Park Operations and Enforcement": [
+                            67
+                        ],
+                        "Unauthorised Subletting of Tenanted Commercial Premises": [
+                            67,
+                            68
+                        ]
+                    }
+                },
+                "MINISTRY OF TRANSPORT": {
+                    "Land Transport Authority of Singapore": {
+                        "Delays in Refund of Advance Payments Received": [
+                            69
+                        ]
+                    },
+                    "Maritime and Port Authority of Singapore": {
+                        "Lapses in Evaluation and Administration of Tender for Event and Venue Management Services": [
+                            69,
+                            70,
+                            71,
+                            72
+                        ]
+                    }
+                }
+            },
+            "PART III : THEMATIC AUDIT": {
+                "SUMMARY": [
+                    73,
+                    74,
+                    75,
+                    76,
+                    77,
+                    78,
+                    79,
+                    80,
+                    81
+                ],
+                "MINISTRY OF EDUCATION": {
+                    "Opportunity for Demand Aggregation of Landscaping and Pond Maintenance Works": [
+                        82
+                    ],
+                    "No Assurance of Works Done Due to Lack of Documentary Evidence": [
+                        82
+                    ],
+                    "Delays in Submitting Payment Claims": [
+                        83
+                    ],
+                    "No Approvals of Requirement Obtained and No Purchase Orders Raised before Commencement of Works": [
+                        83
+                    ],
+                    "Lapses in Payments for Recurrent Services": [
+                        84
+                    ],
+                    "Lapses in Management of Contract Variations": [
+                        85
+                    ],
+                    "Inappropriate Use of Term Contracts": [
+                        86
+                    ],
+                    "Monitoring of Key Performance Indicators Could be Strengthened": [
+                        86
+                    ],
+                    "Delays in Finalisation of Accounts": [
+                        87
+                    ],
+                    "Possible Irregularities in Records Furnished for Audit": [
+                        88,
+                        89
+                    ]
+                },
+                "MINISTRY OF HOME AFFAIRS": {
+                    "Manpower Provided Less than Contractual Requirements": [
+                        90
+                    ],
+                    "Systems Not Used to Achieve Intended Objective or Not Provided in Accordance with Contractual Requirements": [
+                        90,
+                        91
+                    ],
+                    "Annual Energy and Technical Audits Not Carried Out": [
+                        92
+                    ],
+                    "Contract Variations Not Put Up for Deviations from Contracts": [
+                        92
+                    ],
+                    "Lapses in Survey on Contractor\u2019s Performance": [
+                        93
+                    ],
+                    "Monitoring of Key Performance Indicators Could be Strengthened": [
+                        94
+                    ],
+                    "Inconsistencies in Contractual Requirements": [
+                        95
+                    ],
+                    "Weaknesses in IT Controls": [
+                        95,
+                        96
+                    ],
+                    "Possible Irregularities in Records Furnished for Audit": [
+                        97,
+                        98,
+                        99
+                    ]
+                }
+            },
+            "PART IV : AUDIT OF GOVERNMENT-OWNED COMPANIES AND OTHER ACCOUNTS": {
+                "SUMMARY": [
+                    100,
+                    101
+                ]
+            },
+            "ANNEXES": {
+                "Annex I : AGO\u2019s Audit Authority": [
+                    102,
+                    103,
+                    104,
+                    105,
+                    106
+                ],
+                "Annex II : Criteria for Appointment of Auditors": [
+                    107,
+                    108,
+                    109
+                ]
+            }
+        }
+    }
+}

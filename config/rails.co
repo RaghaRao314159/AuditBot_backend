@@ -1,0 +1,10 @@
+define bot says irrelevant
+  "This question is irrelevant. Please ask something related to the audit reports."
+
+
+define flow irrelevant input
+  $allowed = execute irrelevant_input
+
+  if not $allowed
+    bot says irrelevant
+    stop

@@ -1,0 +1,9 @@
+utils/__pycache__/
+.DS_Store
+notebooks/pdf_images/
+data/documents/.DS_Store
+data/db/
+results.txt
+data/documents/
+.cache
+
