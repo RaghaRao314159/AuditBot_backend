@@ -77,7 +77,7 @@ After installing the necessary dependencies, you can follow along the tutorial s
 
 ## Acknowledgements
 
-I am extremely greatful to Tay Jun Jie for his guidance on this project.
+I am extremely grateful to Tay Jun Jie for his guidance on this project.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
