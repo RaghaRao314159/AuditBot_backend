@@ -81,10 +81,10 @@ I am extremely grateful to Tay Jun Jie for his guidance on this project.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/RaghaRao314159/Auditbot_backend.svg?style=for-the-badge
-[contributors-url]: https://github.com/RaghaRao314159/Auditbot_backend/graphs/contributors
-[stars-shield]: https://img.shields.io/github/stars/RaghaRao314159/Auditbot_backend.svg?style=for-the-badge
-[stars-url]: https://github.com/RaghaRao314159/Auditbot_backend/stargazers
+[contributors-shield]: https://img.shields.io/github/contributors/RaghaRao314159/AuditBot_backend.svg?style=for-the-badge
+[contributors-url]: https://github.com/RaghaRao314159/AuditBot_backend/graphs/contributors
+[stars-shield]: https://img.shields.io/github/stars/RaghaRao314159/AuditBot_backend.svg?style=for-the-badge
+[stars-url]: https://github.com/RaghaRao314159/AuditBot_backend/stargazers
 [issues-shield]: https://img.shields.io/github/issues/RaghaRao314159/Auditbot_backend.svg?style=for-the-badge
 [issues-url]: https://github.com/RaghaRao314159/Auditbot_backend/issues
 [Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
