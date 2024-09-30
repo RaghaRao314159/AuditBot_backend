@@ -31,7 +31,7 @@ Welcome to the RAG Pipeline Project! This project integrates information retriev
 - **Guard Rails**: Ensures the conversation with the chatbot follows company policies.
 
 ## Flow chart
-[![Flowchart][flowchart-screenshot]](https://github.com/RaghaRao314159/Auditbot_backend)
+[![Flowchart][flowchart-screenshot]](https://github.com/RaghaRao314159/AuditBot_backend)
 
 ## Built With
 
@@ -56,7 +56,7 @@ Use option 1 or option 2 to create a conda environment to run almost everything 
     conda env create -f environment.yml
     ```
 
-Just for ["../experiments/recursive_retrieval.ipynb"](../experiments/recursive_retrieval.ipynb) and ["../utils/llama_index_utils.py"](../utils/llama_index_utils.py), a seperate environment is required.
+Just for ["experiments/recursive_retrieval.ipynb"](experiments/recursive_retrieval.ipynb) and ["utils/llama_index_utils.py"](utils/llama_index_utils.py), a seperate environment is required.
 
 **LlamaIndex env: Use requirements_recursive_retrieval.txt**:
     ```
